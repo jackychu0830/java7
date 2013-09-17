@@ -1,0 +1,2 @@
+This is a test File!
+There is no Chinese words in this file.
